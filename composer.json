@@ -1,0 +1,13 @@
+{
+    "name": "juliana/juliana",
+    "description": "projeto tcc",
+    "type": "project",
+    "require": {
+    	"slim/slim":"2.0"
+    },
+    "autoload":{
+        "psr-4":{
+            "Juliana\\": "vendor\\juliana"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/juliana/Helper" />
+      <path value="$PROJECT_DIR$/vendor/juliana/Viewmodel" />
+      <path value="$PROJECT_DIR$/vendor/juliana/Model" />
+      <path value="$PROJECT_DIR$/vendor/juliana/View" />
+      <path value="$PROJECT_DIR$/vendor/juliana/DB" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/slim/slim" />
+    </include_path>
+  </component>
+</project>
